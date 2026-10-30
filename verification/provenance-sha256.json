@@ -1,0 +1,37 @@
+{
+  "files": {
+    "experiments/su2_color_geometry.py": {
+      "release_sha256": "a1844cd0e88e152f18587cb64613f512ae25d1c57bf54cf98746cc261498de91",
+      "research_source_sha256": "a1844cd0e88e152f18587cb64613f512ae25d1c57bf54cf98746cc261498de91"
+    },
+    "experiments/su2_decimation_certificate.py": {
+      "release_sha256": "0e772b191280707ff0461c945b13a62fc5495d06653d9a216d1d02425c6f9447",
+      "research_source_sha256": "0e772b191280707ff0461c945b13a62fc5495d06653d9a216d1d02425c6f9447"
+    },
+    "experiments/su2_forest_geometry.py": {
+      "release_sha256": "2b2d3fd5de74b9a2bd283d9039b3d81c55c7d2974f28032f571585b2fa86f778",
+      "research_source_sha256": "2b2d3fd5de74b9a2bd283d9039b3d81c55c7d2974f28032f571585b2fa86f778"
+    },
+    "experiments/su2_vmf_certificate.py": {
+      "release_sha256": "b75ab4df29d40a7d03210c38a77247001d67e440526246e0787c6dfcb91dcf33",
+      "research_source_sha256": "b75ab4df29d40a7d03210c38a77247001d67e440526246e0787c6dfcb91dcf33"
+    },
+    "tests/test_su2_color_geometry.py": {
+      "release_sha256": "cdc305d64391b74ec046eba8b3fcf42efdaeb1bc24f21a0e28f83a3e22a14e4f",
+      "research_source_sha256": "cdc305d64391b74ec046eba8b3fcf42efdaeb1bc24f21a0e28f83a3e22a14e4f"
+    },
+    "tests/test_su2_decimation_certificate.py": {
+      "release_sha256": "47e531becba60b3d76289502f2db3ae751a4a3c1dffcdb73f47f9bea7fe22fcd",
+      "research_source_sha256": "47e531becba60b3d76289502f2db3ae751a4a3c1dffcdb73f47f9bea7fe22fcd"
+    },
+    "tests/test_su2_forest_geometry.py": {
+      "release_sha256": "2c197cb1b0f65727c348982e9b4e74c96ba5515885bd23c331dbe0e55aa3b76e",
+      "research_source_sha256": "2c197cb1b0f65727c348982e9b4e74c96ba5515885bd23c331dbe0e55aa3b76e"
+    },
+    "tests/test_su2_vmf_certificate.py": {
+      "release_sha256": "d037e71ccbbb818fc90b8a734737c78fff6d6834e7d69e1b872763135c2b1774",
+      "research_source_sha256": "d037e71ccbbb818fc90b8a734737c78fff6d6834e7d69e1b872763135c2b1774"
+    }
+  },
+  "note": "Source and test copies differ only by normalized LF line endings. Original research hashes and published release hashes are recorded separately."
+}

@@ -1,0 +1,15 @@
+{
+  "certified_upper_threshold_rational": "249332181/250000000",
+  "floating_point_used": false,
+  "independent_alpha_upper_outward": "997328723167/1000000000000",
+  "independent_cells": 1024,
+  "independent_degree": 18,
+  "lambda_lower_outward": "138700415881/1000000000000",
+  "scope": "Independent coarser contraction check only; run verify.py for alpha<0.990737.",
+  "simple_lambda_used": "137/1000",
+  "simple_third_used": "13/200",
+  "third_upper_outward": "62581076341/1000000000000",
+  "unwrapped_counts": "each link: 6 same, 60 cross, 52 distinct neighbors",
+  "unwrapped_faces_checked": 14406,
+  "unwrapped_interior_links_checked": 32
+}

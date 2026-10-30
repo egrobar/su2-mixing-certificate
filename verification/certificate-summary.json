@@ -1,0 +1,54 @@
+{
+  "certificate": {
+    "beta_W_interval": [
+      "0",
+      "77/200"
+    ],
+    "column_and_row_sum_upper_rational": "247684156026907/250000000000000",
+    "exact_fraction_decision_passed": true,
+    "exact_internal_alpha_sha256": "31eff2e54559a483cfc9b415e910e79cd95839754f96002bcb7b521816849ce5",
+    "extension_to_smaller_beta": "Analytic A'(r)=Var(x_1)>=0 and positivity of all majorant factors, using fixed domain constants; no beta grid.",
+    "positive_margin_lower_rational": "2315843973093/250000000000000",
+    "strict_display_bound_rational": "990737/1000000"
+  },
+  "geometry": {
+    "cross_occurrences_row_and_column": 60,
+    "distinct_neighbors": 52,
+    "factor_arity": 12,
+    "factors_per_retained_link": 6,
+    "parity_face_types": 96,
+    "period": 6,
+    "same_occurrences_row_and_column": 6,
+    "unwrapped_midpoint_check": {
+      "eliminated_parity_types": 16,
+      "max_doubled_midpoint_l1_distance": 4,
+      "midpoint_l1_range_upper": "2"
+    }
+  },
+  "parameters": {
+    "cells": 4096,
+    "critical_cells": {
+      "hessian_lower_cell": 4095,
+      "hessian_upper_cell": 2,
+      "third_upper_cell": 2928
+    },
+    "lambda_lower": "11575977608891876120642813014362735/83076749736557242056487941267521536",
+    "polynomial_degree": 24,
+    "radius": "12/5",
+    "rounding_bits": 120,
+    "tau_interval_upper": "166153513734183787682131882525799449/664613997892457936451903530140172288",
+    "third_upper": "82112893213354934416166538939579731/1329227995784915872903807060280344576"
+  },
+  "runtime": {
+    "implementation": "CPython",
+    "python_version": "3.12.10",
+    "third_party_dependencies": []
+  },
+  "scope": "Finite arithmetic and local geometry certificate for projected bulk/free-box SU(2) forest specification; analytic response inputs are separate. No Lean build or continuum gap claim.",
+  "source_sha256": {
+    "experiments/su2_color_geometry.py": "a1844cd0e88e152f18587cb64613f512ae25d1c57bf54cf98746cc261498de91",
+    "experiments/su2_decimation_certificate.py": "0e772b191280707ff0461c945b13a62fc5495d06653d9a216d1d02425c6f9447",
+    "experiments/su2_forest_geometry.py": "2b2d3fd5de74b9a2bd283d9039b3d81c55c7d2974f28032f571585b2fa86f778",
+    "experiments/su2_vmf_certificate.py": "b75ab4df29d40a7d03210c38a77247001d67e440526246e0787c6dfcb91dcf33"
+  }
+}
